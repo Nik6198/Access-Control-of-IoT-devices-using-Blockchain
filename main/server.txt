@@ -1,0 +1,3 @@
+info: connected to mqtt server  {"label":"category three","meta":"server"}
+info: server asked temp sensor to start taking reading {"label":"category three"}
+info: connected to mqtt server  {"label":"category three","meta":"server"}

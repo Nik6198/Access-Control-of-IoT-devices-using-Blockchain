@@ -1,0 +1,30 @@
+{
+  "name": "edad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "crypto": "^1.0.1",
+    "date-time": "^2.1.0",
+    "datetime": "0.0.3",
+    "ethereumjs-testrpc": "^6.0.3",
+    "express": "^4.16.4",
+    "mqtt": "^2.18.8",
+    "node-datetime": "^2.1.2",
+    "randomatic": "^3.1.1",
+    "sha1": "^1.1.1",
+    "shell-exec": "^1.0.2",
+    "shelljs": "^0.8.3",
+    "thingspeakclient": "^0.4.0",
+    "url": "^0.11.0",
+    "web3": "^0.20.1",
+    "winston": "^3.1.0",
+    "xxhash": "^0.2.4"
+  }
+}
